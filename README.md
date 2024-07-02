@@ -16,16 +16,16 @@
 
 <h3 align="center">Languages and Tools I Use:</h3>
 <p width="60%"   align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://i.ibb.co/99SxWHW/HTML.png"/>
+<img src="https://i.ibb.co/tDQCsf9/css.png"/>
+<img src="https://i.ibb.co/GWxqQrJ/Java-Script.png"/>
+<img src="https://i.ibb.co/yRHCSqS/react.png"/>
 </p>
   <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://i.ibb.co/RB8N3kC/tailwind.png"/>
+<img src="https://i.ibb.co/Qr6Jsjf/firebase.png"/>
+<img src="https://i.ibb.co/2qWCYMy/express.png"/>
+<img src="https://i.ibb.co/Br8VB00/mongo.png"/>
 </p>
 ## :computer: Technologies that I Used most
 <hr>
