@@ -1,3 +1,6 @@
+
+<img src="https://i.ibb.co/bFsZDQz/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f776562.gif" />
+
 <h1 align="center">Hi 👋, I'm Mazidur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -12,7 +15,7 @@
 </p>
 
 <h3 align="center">Languages and Tools I Use:</h3>
-<p align="center">
+<p width="60%"   align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
@@ -24,9 +27,13 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
+## :computer: Technologies that I Used most
+<hr>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazid70&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mazid70" />
+  <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazid70&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mazid70" />
 </p>
+## :chart_with_upwards_trend: Current Stats
+<hr>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazid70&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mazid70" />
+  <img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazid70&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mazid70" />
 </p>
