@@ -2,8 +2,8 @@
 <img src="https://i.ibb.co/bFsZDQz/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f776562.gif" />
 
 <h1 align="center">Hi 👋, I'm Mazidur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center">I am from Bangladesh and currently live in Dhaka. My journey into web development began with a course from Programming Hero, where I discovered my passion for creating beautiful, user-friendly websites using the MERN stack. As a frontend enthusiast, I particularly enjoy working with JavaScript to bring my ideas to life. Outside of web development, I love playing cricket and video games. My career goal is to become a software engineer, and I pride myself on being a smart worker rather than just a hard worker.</p>
+<h3 align="center">A passionate frontend developer </h3>
+<p align="center">I am from Bangladesh and currently live in Dhaka. My journey into web development began with a course from Programming Hero, where I discovered my passion for creating beautiful, user-friendly websites using the MERN stack. As a frontend enthusiast, I particularly enjoy working with JavaScript to bring my ideas to life. Outside of web development, I love playing cricket and video games. My career goal is to become a software engineer.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
