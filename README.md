@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mazidur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center">I am from Bangladesh and currently live in Dhaka. My journey into web development began with a course from Programming Hero, where I discovered my passion for creating beautiful, user-friendly websites using the MERN stack. As a frontend enthusiast, I particularly enjoy working with JavaScript to bring my ideas to life. Outside of web development, I love playing cricket and video games. My career goal is to become a software engineer, and I pride myself on being a smart worker rather than just a hard worker.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
